@@ -27,7 +27,7 @@
 2. After click: The **USDJPY** chart loads instead
 
 ## Attachments
-![Screenshot](Screenshots/bug-001-iranbroker-wrong-chart-loading.png)
+![Screenshot](../Screenshots/bug-001-iranbroker-wrong-chart-loading.png)
 
 ##Note
 Before clicking, browser status bar already shows the link points to USDJPY, so the issue is a wrong link, not a chart loading problem.
