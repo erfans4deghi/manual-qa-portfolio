@@ -1,12 +1,15 @@
-# Bug Report: BUG-IRBC-001
+# Bug Report: USDCAD button redirects to USDJPY chart
 
 ## General Information
-| **Bug ID** | BUG-001-IRANBROKER |
-| **Title** | Clicking on USDCAD button loads USDJPY chart instead |
-| **Severity** | Medium |
-| **Priority** | High |
+| Item | Details |
+|---|---|
+| **Bug ID** | BUG-001-IRANBROKER |  
+| **Severity** | High |  
+| **Priority** | High |  
 
 ## Environment
+| Environment | Details |
+|---|---|
 | **OS** | Windows 10 |
 | **Browser** | Chrome |
 | **Device** | Desktop |
@@ -27,7 +30,7 @@
 2. After click: The **USDJPY** chart loads instead
 
 ## Attachments
-![Screenshot](../Screenshots/bug-001-iranbroker-wrong-chart-loading.png?raw=true)
+![Bug Screenshot](../Screenshots/bug-001-iranbroker-wrong-chart-loading.png)
 
-##Note
+## Note
 Before clicking, browser status bar already shows the link points to USDJPY, so the issue is a wrong link, not a chart loading problem.
