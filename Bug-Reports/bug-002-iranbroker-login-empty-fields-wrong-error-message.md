@@ -27,4 +27,4 @@
 - An error message was displayed: "فرمت ایمیل یا شماره همراهتان صحیح نیست"
 
 ## Attachments
-![Bug Screenshot](../Screenshots/bug-002-iranbroker-login-empty-fields.png)
+![Bug Screenshot](../Screenshots/bug-002-iranbroker-login-empty-fields-wrong-error-message.png)
