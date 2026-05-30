@@ -14,7 +14,7 @@
 5. Click on "ورود به حساب کاربری"
 
 ## Expected Result
-- An error message should be displayed that username and password are required.
+- An error message should be displayed indicating that username and password are required.
 
 ## Actual Result
 - An error message was displayed: "فرمت ایمیل یا شماره همراهتان صحیح نیست".
